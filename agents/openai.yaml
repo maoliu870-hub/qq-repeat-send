@@ -1,0 +1,8 @@
+interface:
+  display_name: "QQ 定时群发"
+  short_description: "Repeat a QQ group message on a timer"
+  brand_color: "#12B7F5"
+  default_prompt: "Use $qq-repeat-send to repeat a QQ group message on a timer."
+
+policy:
+  allow_implicit_invocation: true
